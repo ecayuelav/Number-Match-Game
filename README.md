@@ -12,4 +12,4 @@ Moving forward, I'm eager to enhance my skills and refine my code logic further,
 
 **Conclusion**
 
-This project is just the beginning of my exploration into graphical interfaces, and I'm excited to continue learning and improving as a programmer.
+This project is just the beginning of my exploration into graphical interfaces, and I'm excited to continue learning and improving as a programmer and as a computer engineer.
